@@ -181,3 +181,5 @@ END
 Пример того, как это работает:
 
 <video src="video_2023-10-12_13-19-22.mp4" controls title="Title"></video>
+
+[![Watch the video](video_2023-10-12_13-19-22.mp4)](video_2023-10-12_13-19-22.mp4)
